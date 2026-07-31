@@ -3,7 +3,7 @@ title: 给 Xournal++ 配数位板侧键？我写了个小插件解决这个问�
 description: ToggleActions 是一个 Xournal++ 插件，可以通过快捷键在工具之间切换，并自动恢复之前使用的工具。
 author: 小狐
 pubDate: 2026-07-26
-updatedDate: 2024-07-27
+updatedDate: 2026-07-27
 tags: [折腾,Xournal++,插件,数位板,手写,效率工具]
 categories: [项目]
 featured: false
@@ -18,7 +18,7 @@ toc: true
 
 **数位板上的侧键，在 Xournal++ 里并不好用。**
 
-# 数位板侧键的问题
+## 数位板侧键的问题
 我的数位板有两个侧键，正常情况下我希望它们能分别对应：
 
 - 切换到画笔；
@@ -40,7 +40,7 @@ Xournal++ 本身对于“数位板按键直接绑定某个工具”这件事，�
 
 次数多了以后，确实挺影响体验。
 
-# 所以我写了 ToggleActions
+## 所以我写了 ToggleActions
 既然数位板侧键不好直接控制工具，那就换个思路。
 
 我写了一个 Xournal++ 插件：
@@ -65,7 +65,7 @@ Ctrl + Shift + Alt + P
 
 原本不好控制的“数位板按钮”，就变成了一个普通键盘输入。
 
-# 其它功能
+## 其它功能
 除了快捷键切换，插件还会在 Xournal++ 的插件菜单里生成一个 ToggleActions 菜单。
 
 里面会列出支持切换的工具，可以直接点击使用。
@@ -128,7 +128,7 @@ cp -r ToggleActions ~/.xournalpp/plugins/
 
 👉 [https://github.com/yourusername/ToggleActions](https://github.com/yourusername/ToggleActions)
 
-# 最后
+## 最后
 如果你也在用：
 
 - Xournal++
