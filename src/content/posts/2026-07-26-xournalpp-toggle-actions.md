@@ -4,6 +4,7 @@ description: ToggleActions 是一个 Xournal++ 插件，可以通过快捷键在
 author: 小狐
 pubDate: 2026-07-26
 updatedDate: 2026-07-27
+cover: https://bed.foxmoe.top/file/images/1785895095590_image.png
 tags: [折腾,Xournal++,插件,数位板,手写,效率工具]
 categories: [项目]
 featured: false
@@ -67,6 +68,8 @@ Ctrl + Shift + Alt + P
 
 ## 其它功能
 除了快捷键切换，插件还会在 Xournal++ 的插件菜单里生成一个 ToggleActions 菜单。
+
+![ToggleActions 菜单](https://bed.foxmoe.top/file/images/1785895137346_image.png)
 
 里面会列出支持切换的工具，可以直接点击使用。
 
