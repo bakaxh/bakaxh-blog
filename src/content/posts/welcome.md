@@ -1,5 +1,5 @@
 ---
-title: 欢迎来到狐言乱语（Korikura 主题示例）
+title: 欢迎来到狐言碎语（Korikura 主题示例）
 description: 这是一篇用于演示 Korikura 主题的示例文章，包含多级标题、代码分组、数学公式与 GitHub 提示框，方便预览目录、归档时间轴与分类页等组件。
 author: 小狐
 pubDate: 2024-08-12
