@@ -2,7 +2,7 @@
 title: Cloudflare 钱包上线：为代理经济构建支付与身份基础设施
 description: Cloudflare 钱包通过账户钱包、虚拟钱包和 cloudflare.pay 句柄，为 AI 代理提供稳定的身份标识与原生支付能力，旨在降低代理调用 API 的门槛，推动机器间自主交易的发展。
 author: 小狐
-cover: https://bed.foxmoe.top/file/images/1785894916603_
+cover: https://bed.foxmoe.top/file/images/1785896741228_image.png
 coverAlt: Cloudflare 钱包上线：为代理经济构建支付与身份基础设施
 pubDate: 2026-08-05
 updatedDate: 2026-08-05
