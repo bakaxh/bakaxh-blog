@@ -44,6 +44,7 @@ import react from '@astrojs/react';
 import mdx from '@astrojs/mdx';
 
 import svelte from '@astrojs/svelte';
+import clarity from "@bitfresh/astro-clarity";
 import NebulaCMS from 'nebula-cms';
 import tailwindcss from '@tailwindcss/vite';
 import rehypeAutolinkHeadings from 'rehype-autolink-headings';
@@ -78,7 +79,11 @@ export default defineConfig({
 
   adapter: cloudflare(),
 
-  integrations: [sitemap({
+  integrations: [clarity({
+      projectId: "ss3a1su3uz",
+      enabled: true,  
+    }),
+    sitemap({
     changefreq: 'weekly',
     priority: 0.7,
     filenameBase: 'sitemap',
