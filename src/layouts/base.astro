@@ -139,6 +139,7 @@ const fullTitle = title ? title + " - " + siteConfig.title : siteConfig.title;
         style="display:none;visibility:hidden"></iframe></noscript
     >
     <!-- End Google Tag Manager (noscript) -->
+
     <a class="skip-link" href="#main-container">跳到主要内容</a>
     <SpaRouter
       contentSelector="#main-container"
@@ -159,7 +160,6 @@ const fullTitle = title ? title + " - " + siteConfig.title : siteConfig.title;
     <Animations />
 
     <script is:inline>
-      // 通用点击波纹扩散：为带 data-ripple 的元素在点击处生成扩散圆
       (function () {
         function spawnRipple(e) {
           var host =

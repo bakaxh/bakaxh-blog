@@ -88,6 +88,11 @@ export default defineConfig({
     priority: 0.7,
     filenameBase: 'sitemap',
     entryLimit: 50000,
+     filter: (page) => {
+    if (page.includes('/tags/') || page.includes('/categories/')) return false;
+    if (page.includes('/console') || page.includes('/search') || page.includes('/assets/')) return false;
+    return true;
+  },
   }), react(), mdx(), svelte(), NebulaCMS({
     basePath: '/console',
   }), compressor({ gzip: true, brotli: true })],
