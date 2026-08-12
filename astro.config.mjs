@@ -70,7 +70,7 @@ export default defineConfig({
   trailingSlash: "never",
   compressHTML: true,
   build: {
-    format: 'file',
+    format: 'directory', 
     assets: 'assets',
   },
   devToolbar: {
