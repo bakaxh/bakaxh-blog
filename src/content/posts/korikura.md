@@ -1,5 +1,5 @@
 ---
-title: 欢迎来到狐言碎语（Korikura 主题示例）
+title: Korikura 主题示例
 description: 这是一篇用于演示 Korikura 主题的示例文章，包含多级标题、代码分组、数学公式与 GitHub 提示框，方便预览目录、归档时间轴与分类页等组件。
 author: 小狐
 pubDate: 2024-08-12
@@ -16,7 +16,7 @@ Korikura 是一个基于 **Astro 7** 与 **Tailwind CSS v4** 构建的轻量个�
 
 ### 设计理念
 
-尽量“零 JS 也能读”，仅在交互处按需加载脚本；所有视觉状态都用 CSS 变量驱动，方便换肤。
+实现“零 JS 也能读”，仅在交互处按需加载脚本；所有视觉状态都用 CSS 变量驱动，方便换肤。
 
 ### 技术特性
 
@@ -57,8 +57,8 @@ $$
 > 小技巧：点击右侧目录里的父标题，可以折叠 / 展开它的子项。
 
 > [!WARNING]
-> 这是一条警告，提醒你示例内容随时可以删除。
+> 这是一条警告。
 
 ## 结语
 
-感谢试用 Korikura 主题。你可以在 `src/content/posts` 与 `src/content/dynamics` 中替换为你自己的内容。
+感谢使用 Korikura 主题。你可以在 `src/content/posts` 与 `src/content/dynamics` 中替换为你自己的内容。
