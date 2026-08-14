@@ -45,3 +45,13 @@ export function getReadingTime(content: string, speed = 320) {
 export function tagToSlug(tag: string) {
   return encodeURIComponent(tag.trim());
 }
+
+export function toPlainText(md: string): string {
+  return (md || "")
+    .replace(/!\[[^\]]*\]\([^)]*\)/g, "")
+    .replace(/\[([^\]]+)\]\([^)]+\)/g, "$1")
+    .replace(/[#>*_`~]/g, "")
+    .replace(/\s+/g, " ")
+    .trim()
+    .slice(0, 48);
+}
