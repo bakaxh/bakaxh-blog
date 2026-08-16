@@ -10,8 +10,6 @@ Disallow: /.well-known/
 
 Sitemap: ${new URL("sitemap-0.xml", import.meta.env.SITE).href}
 Sitemap: ${new URL("sitemap.xml", import.meta.env.SITE).href}
-
-Crawl-delay: 5
 `.trim();
 
 export const GET: APIRoute = () => {
