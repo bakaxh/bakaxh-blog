@@ -1,7 +1,7 @@
 export const siteConfig = {
-    title: "狐言碎语博客",
-    description: "不写代码的Baka不是好狐狸。随便写写，别太当真。",
-    keywords: "小狐,Baka小狐,BakaXH,BakaXH日记,BakaXH的博客,BakaXH的博客网站,狐言碎语,狐言碎语博客,狐言碎语网站,狐言碎语BLOG,狐言碎语BLOG网站,狐言碎语BLOG网站",
+    title: "狐言碎语博客 - 技术开发、学习记录与生活随笔",
+    description: "不写代码的Baka不是好狐狸！这是Baka小狐的技术博客，记录技术、学习与生活。分享开发实践、项目折腾、工具体验，以及一路探索过程中留下的思考与记录。",
+    keywords: "小狐, Baka小狐, Baka小狐的博客, 狐言碎语, 狐言碎语博客, 狐言碎语BLOG, 狐言碎语公众号, Baka小狐blog",
     lang: "zh-CN",
     url: "https://blog.foxmoe.top",
     entry: "/",
