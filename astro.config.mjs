@@ -67,7 +67,7 @@ export default defineConfig({
   site: siteConfig.url,
   base: siteConfig.entry,
 
-  trailingSlash: "never",
+  trailingSlash: "always",
   compressHTML: true,
   build: {
     format: 'directory', 
