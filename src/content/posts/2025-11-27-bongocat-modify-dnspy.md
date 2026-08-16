@@ -4,8 +4,8 @@ description: 通过 dnSpy 修改 Assembly-CSharp.dll，实现自动开箱、自�
 author: 小狐
 cover: https://bed.foxmoe.top/file/images/1785896673513_image.png
 coverAlt: Bongo Cat 修改教程
-pubDate: 2026-08-05
-updatedDate: 2026-08-05
+pubDate: 2025-11-27
+updatedDate: 2025-11-27
 tags: [Bongo Cat, 修改, dnSpy, Unity]
 categories: [逆向工程]
 featured: false

@@ -3,8 +3,8 @@ title: 在Web开发中使用自定义CSS字体及提高加载速度
 description: 探讨中文字体体积问题，使用unicode-range分割、WOFF2压缩、减少字符数、font-display、预加载和可变字体等优化策略。
 author: 小狐
 cover: https://bed.foxmoe.top/file/images/1785897174800_image.png
-pubDate: 2026-08-05
-updatedDate: 2026-08-05
+pubDate: 2025-11-05
+updatedDate: 2025-11-05
 tags: [CSS, 字体, 性能优化, 中文字体, Web开发]
 categories: [前端技术]
 ---

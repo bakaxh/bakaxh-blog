@@ -3,8 +3,8 @@ title: Docker 安装 Nextcloud 网盘服务与 Nginx 反向代理及常见问题
 description: 使用 Docker 部署 Nextcloud 私有云盘，配置 Nginx 反向代理与 SSL，并解决常见问题，适合自建网盘的用户。
 author: 小狐
 cover: https://bed.foxmoe.top/file/images/1785897343524_image.png
-pubDate: 2026-08-05
-updatedDate: 2026-08-05
+pubDate: 2025-09-03
+updatedDate: 2025-09-03
 tags: [Docker, Nextcloud, Nginx, 反向代理, 云盘]
 categories: [服务器运维]
 ---
