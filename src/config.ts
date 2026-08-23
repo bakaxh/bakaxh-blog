@@ -26,6 +26,7 @@ export const siteConfig = {
 
     friendLinks: [
         { name: "菱华博客", url: "https://blog.inlyra.cn", avatar: "https://bed.foxmoe.top/file/images/1785997326402_image.png", desc: "一个分享想法的小站点" },
+        { name: "Geuo", url: "https://geuo.org", avatar: "https://geuo.org/image/avatar.png", desc: "记录创造，探索未知" },
         { name: "胡巴的博客", url: "https://hlydwz.com", avatar: "", desc: "胡巴的博客是一个自建的全栈个人博客系统，使用 Astro + React + PocketBase 构建，自 2025 年运行至今。" },
     ],
 
